@@ -1,4 +1,4 @@
-# Hi, I'm [Suryakanta Behera] 👋
+# Hi, I'm Suryakanta Behera 👋
 
 I'm an SDET with 5 years of experience building reliable and maintainable test-automation solutions for web applications and APIs.
 
@@ -20,8 +20,8 @@ I'm an SDET with 5 years of experience building reliable and maintainable test-a
 - AI-assisted testing
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/suryakanta-behera/]
-- Email: [suryakanta1998@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/suryakanta-behera/
+- Email: suryakanta1998@gmail.com
 
 <!---
 Suryakanta-1998/Suryakanta-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
